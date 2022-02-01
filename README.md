@@ -1,6 +1,7 @@
 ## About Me
 
-- Name: Tempura (You can also call me Jasmine Wang, but I prefer Tempura, because I like Tempura Ninja very much.🤣)
+- Name: Tempura 
+  - You can also call me Jasmine, but I prefer Tempura, because I like Tempura Ninja very much.🤣
 - Role: Frontend Developer
 - My note: (This part is still building.😂)
 
