@@ -1,16 +1,51 @@
-### Hi there 👋
+## About Me
 
-<!--
-**tempura327/tempura327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name: 
+- Role: Frontend Developer
+- My note: (This part is still building.😂)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempura327&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- (This is part still building.😂)
+
+## Knowledge
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tempura327&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Frontend
+
+- Basic
+  - HTML / CSS / JavaScript
+  - SASS / SCSS
+  - TypeScript (learning)
+
+- Framework
+  - Vue.js (main)
+  - related dep: VueX
+  - 
+- UI library
+  - Bootstrap and Bootstrap-Vue (main)
+
+- Testing
+  - Jest(have experience)
+  
+#### Backend / Others
+- Languages & Database
+  - MySQL
+
+- Version Management
+  - git / git-flow
+
+- Team work tools
+  - Trello(main) / Notion / Swagger
+
+- UI
+  - Adobe XD(main) / Figma
+  - Adobe Photoshop / Adobe Illustrator 
+
+#### Learning List recently (2022/2)
+
+- TypeScript(main)
+- Data strucure
