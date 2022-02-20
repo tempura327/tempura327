@@ -1,9 +1,12 @@
 ## About Me
 
-- Name: Tempura 
-  - You can also call me Jasmine, but I prefer Tempura, because I like Tempura Ninja very much.🤣
+- Name: Tempura
+  - (because I like Tempura Ninja very much.🤣)
+  - You can also call me Jasmine.
 - Role: Frontend Developer
-- My note: (This part is still building.😂)
+- My note:
+  - https://tempura-good-good.coderbridge.io/
+  - my github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempura327&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +27,7 @@
 
 - Framework
   - Vue.js (main)
-  - related dep: VueX
+  - related dep: Vuex
   - 
 - UI library
   - Bootstrap and Bootstrap-Vue (main)
