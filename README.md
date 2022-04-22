@@ -22,8 +22,8 @@
 
 - Basic
   - HTML / CSS / JavaScript
-  - SASS / SCSS
-  - TypeScript (learning)
+  - SCSS
+  - TypeScript
 
 - Framework
   - Vue.js (main)
@@ -31,9 +31,10 @@
   - 
 - UI library
   - Bootstrap and Bootstrap-Vue (main)
+  - Tailwind (learning)
 
 - Testing
-  - Jest(have experience)
+  - Jest + Vue Test Utils
   
 #### Backend / Others
 - Languages & Database
@@ -49,7 +50,6 @@
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2022/2)
+#### Learning List recently (2022/4)
 
-- TypeScript(main)
-- Data strucure
+- Tailwind(main)
