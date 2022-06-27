@@ -1,8 +1,7 @@
 ## About Me
 
-- Name: Tempura
-  - (because I like Tempura Ninja very much.🤣)
-  - You can also call me Jasmine.
+- Name: Jasmine
+  - You can also call me Tempura. (because I like Tempura Ninja very much.🤣)
 - Role: Frontend Developer
 - My note:
   - https://tempura-good-good.coderbridge.io/
