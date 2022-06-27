@@ -21,35 +21,41 @@
 #### Frontend
 
 - Basic
-  - HTML / CSS / JavaScript
-  - SCSS
-  - TypeScript
+  - HTML
+  - SCSS / CSS
+  - JavaScript TypeScript
 
 - Framework
   - Vue.js (main)
   - related dep: Vuex
   - 
 - UI library
-  - Bootstrap and Bootstrap-Vue (main)
-  - Tailwind (learning)
+  - Bootstrap and Bootstrap-Vue
+  - Tailwind
 
 - Testing
   - Jest + Vue Test Utils
+  - SonarQue (have experience)
   
-#### Backend / Others
+#### Backend & Others
 - Languages & Database
   - MySQL
 
 - Version Management
   - git / git-flow
 
+- Linter & Fomatter
+  - ESLint
+  - Stylelint
+  - Prettier
+
 - Team work tools
-  - Trello(main) / Notion / Swagger
+  - Trello / Notion / Swagger
 
 - UI
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2022/4)
+#### Learning List recently (2022/6)
 
-- Tailwind(main)
+- Nuxt(main)
