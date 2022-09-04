@@ -5,13 +5,13 @@
 - Role: Frontend Developer
 - My note:
   - https://tempura-good-good.coderbridge.io/
-  - my github
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempura327&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
-- (This is part still building.😂)
+- [tourism](https://tempura327.github.io/The-F2E-tourism/)
 
 ## Knowledge
 
@@ -22,7 +22,7 @@
 - Basic
   - HTML
   - SCSS / CSS
-  - JavaScript TypeScript
+  - JavaScript / TypeScript
 
 - Framework
   - Vue.js (main)
@@ -39,6 +39,7 @@
 #### Backend & Others
 - Languages & Database
   - MySQL
+  - Flutter + Dart (have experience)
 
 - Version Management
   - git / git-flow
@@ -55,6 +56,6 @@
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2022/6)
+#### Learning List recently (2022/9)
 
 - Nuxt(main)
