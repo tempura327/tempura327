@@ -25,12 +25,15 @@
   - JavaScript / TypeScript
 
 - Framework
-  - Vue.js (main)
+  - Vue.js
+  - Nuxt
   - related dep: Vuex
-  - 
+  - React.js
+
 - UI library
   - Bootstrap and Bootstrap-Vue
   - Tailwind
+  - MUI
 
 - Testing
   - Jest + Vue Test Utils
@@ -56,6 +59,7 @@
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2022/9)
+#### Learning List recently (2022/11)
 
-- Nuxt(main)
+- React.js
+- Redux
