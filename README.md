@@ -26,9 +26,10 @@
 
 - Framework
   - Vue.js
-  - Nuxt
+  - Nuxt2
   - related dep: Vuex
   - React.js
+  - related dep: Jotai
 
 - UI library
   - Bootstrap and Bootstrap-Vue
@@ -36,12 +37,15 @@
   - MUI
 
 - Testing
-  - Jest + Vue Test Utils
-  - SonarQue (have experience)
+  - Jest 
+  - Vue Test Utils
+  - React Testing Library
+  
   
 #### Backend & Others
 - Languages & Database
   - MySQL
+  - GraphQL + Apollo Client
   - Flutter + Dart (have experience)
 
 - Version Management
@@ -54,12 +58,15 @@
 
 - Team work tools
   - Trello / Notion / Swagger
+  - SonarQue (have experience)
 
 - UI
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2022/11)
+#### Learning List recently (2023/2)
 
 - React.js
 - Redux
+- Typescript
+- react-hook-form
