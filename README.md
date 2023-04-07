@@ -25,16 +25,16 @@
   - JavaScript / TypeScript
 
 - Framework
-  - Vue.js
-  - Nuxt2
-  - related dep: Vuex
-  - React.js
-  - related dep: Jotai
+  - Vue.js 2
+  - Nuxt 2
+  - related dep: Vue-router, Vuex
+  - React.js 18
+  - related dep: React-router-dom, Jotai, react-hook-form
 
 - UI library
   - Bootstrap and Bootstrap-Vue
   - Tailwind
-  - MUI
+  - MUI (also have experience with integrating MUI with Tailwind)
 
 - Testing
   - Jest 
@@ -58,15 +58,13 @@
 
 - Team work tools
   - Trello / Notion / Swagger
-  - SonarQue (have experience)
+  - SonarQube (have experience)
 
 - UI
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2023/2)
+#### Learning List recently (2023/4)
 
-- React.js
 - Redux
-- Typescript
-- react-hook-form
+- functional programming
