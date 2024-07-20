@@ -29,6 +29,7 @@
   - Nuxt 2
   - related dep: Vue-router, Vuex
   - React.js 18
+  - Remix
   - related dep: React-router-dom, Jotai, react-hook-form
 
 - UI library
@@ -40,9 +41,13 @@
   - Jest 
   - Vue Test Utils
   - React Testing Library
+  - Cypress
+
+- Others
+  - axios
+  - vite 
   
-  
-#### Backend & Others
+#### Backend & Tools
 - Languages & Database
   - MySQL
   - GraphQL + Apollo Client
@@ -64,7 +69,7 @@
   - Adobe XD(main) / Figma
   - Adobe Photoshop / Adobe Illustrator 
 
-#### Learning List recently (2023/4)
+#### Learning List recently (2024/07)
 
 - Redux
 - functional programming
