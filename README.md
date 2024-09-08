@@ -51,7 +51,6 @@
 - Languages & Database
   - MySQL
   - GraphQL + Apollo Client
-  - Flutter + Dart (have experience)
 
 - Version Management
   - git / git-flow
