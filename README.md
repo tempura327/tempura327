@@ -3,14 +3,15 @@
 - Name: Jasmine
   - You can also call me Tempura. (because I like Tempura Ninja very much.🤣)
 - Role: Frontend Developer
-- My note:
-  - https://tempura-good-good.coderbridge.io/
+- My articles:
+  - [菜逼八用Github Actions](https://ithelp.ithome.com.tw/users/20135568/ironman/7604)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempura327&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
+### Vue
 - [tourism](https://tempura327.github.io/The-F2E-tourism/)
 
 ## Knowledge
@@ -20,34 +21,40 @@
 #### Frontend
 
 - Basic
-  - HTML
-  - SCSS / CSS
+  - HTML5
+  - SCSS / CSS3
   - JavaScript / TypeScript
 
 - Framework
-  - Vue.js 2
-  - Nuxt 2
-  - related dep: Vue-router, Vuex
   - React.js 18
-  - Remix
-  - related dep: React-router-dom, Jotai, react-hook-form
+    - react-router-dom, redux, jotai, react-hook-form
+    - Remix
+  - Vue.js 2
+    - vue-router, vuex
+    - Nuxt 2
 
-- UI library
+- UI library & CSS framework
   - Bootstrap and Bootstrap-Vue
   - Tailwind
   - MUI (also have experience with integrating MUI with Tailwind)
 
 - Testing
   - Jest 
-  - Vue Test Utils
-  - React Testing Library
-  - Cypress
+  - vue-test-utils
+  - react testing library (have experience)
+  - Cypress (have experience)
 
 - Others
   - axios
-  - vite 
+  - vite
+  - visx
+  - leaflet
   
 #### Backend & Tools
+
+- CI/CD
+  - Github Actions
+
 - Languages & Database
   - MySQL
   - GraphQL + Apollo Client
@@ -60,15 +67,6 @@
   - Stylelint
   - Prettier
 
-- Team work tools
-  - Trello / Notion / Swagger
-  - SonarQube (have experience)
+#### Learning List recently (2024/11)
 
-- UI
-  - Adobe XD(main) / Figma
-  - Adobe Photoshop / Adobe Illustrator 
-
-#### Learning List recently (2024/07)
-
-- Redux
-- functional programming
+- canvas
