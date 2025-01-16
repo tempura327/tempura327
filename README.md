@@ -27,22 +27,23 @@
 
 - Framework
   - React.js 18
-    - react-router-dom, redux, jotai, react-hook-form
+    - React-Router-Dom, Redux, Jotai, React-Hook-Form, TanStack Query
     - Remix
   - Vue.js 2
-    - vue-router, vuex
+    - Vue-Router, Vuex
     - Nuxt 2
 
 - UI library & CSS framework
   - Bootstrap and Bootstrap-Vue
   - Tailwind
   - MUI (also have experience with integrating MUI with Tailwind)
+  - Next UI & Tailwind-Variant
 
 - Testing
-  - Jest 
-  - vue-test-utils
-  - react testing library (have experience)
+  - Jest (have experience)
   - Cypress (have experience)
+  - vue-test-utils (have experience)
+  - react testing library (have experience)
 
 - Others
   - axios
@@ -56,8 +57,8 @@
   - Github Actions
 
 - Languages & Database
-  - MySQL
-  - GraphQL + Apollo Client
+  - MySQL (have experience)
+  - GraphQL (have experience) + Apollo Client
 
 - Version Management
   - git / git-flow
@@ -67,6 +68,6 @@
   - Stylelint
   - Prettier
 
-#### Learning List recently (2024/11)
+#### Learning List recently (2025/01)
 
-- canvas
+- Zustand
