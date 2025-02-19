@@ -27,17 +27,21 @@
 
 - Framework
   - React.js 18
-    - React-Router-Dom, Redux, Jotai, React-Hook-Form, TanStack Query
+    - React-Router-Dom, React-Hook-Form, TanStack Query
+    - Redux, Jotai, Zustand
     - Remix
   - Vue.js 2
-    - Vue-Router, Vuex
+    - Vue-Router
+    - Vuex
     - Nuxt 2
+  - Svelte 5 (have experience)
 
 - UI library & CSS framework
-  - Bootstrap and Bootstrap-Vue
   - Tailwind
-  - MUI (also have experience with integrating MUI with Tailwind)
+  - MUI
   - Next UI & Tailwind-Variant
+  - ShadcnUI
+  - Bootstrap, Bootstrap-Vue
 
 - Testing
   - Jest (have experience)
@@ -47,6 +51,7 @@
 
 - Others
   - axios
+  - Apollo Client, graphql-request
   - vite
   - visx
   - leaflet
@@ -58,7 +63,7 @@
 
 - Languages & Database
   - MySQL (have experience)
-  - GraphQL (have experience) + Apollo Client
+  - GraphQL (have experience)
 
 - Version Management
   - git / git-flow
@@ -68,6 +73,7 @@
   - Stylelint
   - Prettier
 
-#### Learning List recently (2025/01)
+#### Learning List recently (2025/02)
 
-- Zustand
+- Svelte
+- canvas
